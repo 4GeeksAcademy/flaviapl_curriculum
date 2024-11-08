@@ -1,0 +1,12 @@
+h1 {
+    color: darkblue;
+}
+.dash {
+    font-size: 40px;
+    color: rgb(0, 153, 255);
+    font-weight: bold;
+}
+.major {
+    color: rgb(0, 153, 255);
+    font-weight: bold;
+}
